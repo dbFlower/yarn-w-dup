@@ -1,0 +1,22 @@
+{
+  "name": "@test/test-a",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Flower Db <anna2011@vip.qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test-pkb.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@c1aa57/pkg-single": "^1.1.0"
+  }
+}
